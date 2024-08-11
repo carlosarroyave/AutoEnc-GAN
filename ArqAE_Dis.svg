@@ -8,7 +8,8 @@
    version="1.1"
    id="svg1"
    xml:space="preserve"
-   sodipodi:docname="ArquitecturaAE.svg"
+   sodipodi:docname="ArqAE_Dis.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,7 +24,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:export-bgcolor="#ffffffff" /><defs
+     inkscape:export-bgcolor="#ffffffff"
+     showgrid="false"
+     inkscape:zoom="2.8123292"
+     inkscape:cx="282.86162"
+     inkscape:cy="66.315138"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
      id="defs1" /><g
      id="layer1"
      transform="translate(-6.1218249,-26.351274)"><rect
@@ -102,21 +113,21 @@
        transform="matrix(0.95492799,0,0,1.0471994,-4.2645964,-3.8423865)"><tspan
          x="43.460503"
          y="56.934605"
-         id="tspan12"><tspan
+         id="tspan2"><tspan
    style="text-align:center;text-anchor:middle"
-   id="tspan11">Conv2D </tspan>
+   id="tspan1">Conv2D </tspan>
 </tspan><tspan
          x="43.460503"
-         y="58.732265"
-         id="tspan25"><tspan
+         y="58.732266"
+         id="tspan6"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan15">k=3
+           id="tspan3">k=3
 </tspan></tspan><tspan
          x="43.460503"
-         y="60.529926"
-         id="tspan27"><tspan
+         y="60.529927"
+         id="tspan8"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan26">F=16</tspan></tspan></text><text
+           id="tspan7">F=16</tspan></tspan></text><text
        xml:space="preserve"
        style="font-size:1.43813px;fill:#0098a0;fill-opacity:1;stroke:#000000;stroke-width:0.119844;stroke-opacity:1"
        x="47.152298"
@@ -271,24 +282,24 @@
        x="43.460503"
        y="56.934605"
        id="text4-6-1"
-       transform="matrix(0.95492799,0,0,1.0471994,-2.873527,39.882331)"><tspan
+       transform="matrix(0.95492799,0,0,1.0471994,1.6423028,39.600091)"><tspan
          x="43.460503"
          y="56.934605"
-         id="tspan29"><tspan
+         id="tspan10"><tspan
    style="text-align:center;text-anchor:middle"
-   id="tspan28">Conv2DTranspose </tspan>
+   id="tspan9">Conv2DTranspose </tspan>
 </tspan><tspan
          x="43.460503"
-         y="58.732265"
-         id="tspan31"><tspan
+         y="58.732266"
+         id="tspan12"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan30">k=5
+           id="tspan11">k=5
 </tspan></tspan><tspan
          x="43.460503"
-         y="60.529926"
-         id="tspan33"><tspan
+         y="60.529927"
+         id="tspan14"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan32">F=32</tspan></tspan></text><g
+           id="tspan13">F=32</tspan></tspan></text><g
        id="g10-7"
        transform="matrix(0.60801753,0,0,0.61060209,17.923952,51.795443)"><rect
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.276514;stroke-opacity:1"
@@ -420,21 +431,21 @@
        transform="matrix(0.954928,0,0,1.0471994,-1.2438406,-4.1266928)"><tspan
          x="61.058605"
          y="57.206097"
-         id="tspan35"><tspan
+         id="tspan16"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan34">Conv2D
+           id="tspan15">Conv2D
 </tspan></tspan><tspan
          x="61.058605"
-         y="59.003757"
-         id="tspan37"><tspan
+         y="59.003758"
+         id="tspan18"><tspan
    style="text-align:center;text-anchor:middle"
-   id="tspan36">k=3</tspan>
+   id="tspan17">k=3</tspan>
 </tspan><tspan
          x="61.058605"
-         y="60.801418"
-         id="tspan39"><tspan
+         y="60.801419"
+         id="tspan22"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan38">F=32</tspan></tspan></text><text
+           id="tspan19">F=32</tspan></tspan></text><text
        xml:space="preserve"
        style="font-size:1.43813px;white-space:pre;inline-size:7.80441;fill:#0098a0;fill-opacity:1;stroke:#000000;stroke-width:0.119844;stroke-opacity:1"
        x="61.058605"
@@ -443,21 +454,21 @@
        transform="matrix(0.954928,0,0,1.0471994,30.575155,-4.1266928)"><tspan
          x="61.058605"
          y="57.206097"
-         id="tspan41"><tspan
+         id="tspan24"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan40">Conv2D
+           id="tspan23">Conv2D
 </tspan></tspan><tspan
          x="61.058605"
-         y="59.003757"
-         id="tspan43"><tspan
+         y="59.003758"
+         id="tspan26"><tspan
    style="text-align:center;text-anchor:middle"
-   id="tspan42">k=3</tspan>
+   id="tspan25">k=3</tspan>
 </tspan><tspan
          x="61.058605"
-         y="60.801418"
-         id="tspan45"><tspan
+         y="60.801419"
+         id="tspan28"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan44">F=64</tspan></tspan></text><text
+           id="tspan27">F=64</tspan></tspan></text><text
        xml:space="preserve"
        style="font-size:1.43813px;white-space:pre;inline-size:7.80441;fill:#0098a0;fill-opacity:1;stroke:#000000;stroke-width:0.119844;stroke-opacity:1"
        x="61.058605"
@@ -466,21 +477,21 @@
        transform="matrix(0.954928,0,0,1.0471994,50.7393,-4.1266928)"><tspan
          x="61.058605"
          y="57.206097"
-         id="tspan47"><tspan
+         id="tspan30"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan46">Conv2D
+           id="tspan29">Conv2D
 </tspan></tspan><tspan
          x="61.058605"
-         y="59.003757"
-         id="tspan49"><tspan
+         y="59.003758"
+         id="tspan32"><tspan
    style="text-align:center;text-anchor:middle"
-   id="tspan48">k=3</tspan>
+   id="tspan31">k=3</tspan>
 </tspan><tspan
          x="61.058605"
-         y="60.801418"
-         id="tspan51"><tspan
+         y="60.801419"
+         id="tspan34"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan50">F=128</tspan></tspan></text><text
+           id="tspan33">F=128</tspan></tspan></text><text
        xml:space="preserve"
        style="font-size:1.43813px;fill:#0098a0;fill-opacity:1;stroke:#000000;stroke-width:0.119844;stroke-opacity:1"
        x="81.234459"
@@ -517,31 +528,43 @@
        id="rect3-5-2-0-9"
        width="2.0102966"
        height="13.31099"
-       x="149.56157"
-       y="34.34404" /><text
+       x="41.557976"
+       y="80.537216" /><rect
+       style="fill:#011671;fill-opacity:1;stroke:#000000;stroke-width:0.103613;stroke-opacity:1"
+       id="rect3-5-2-0-9-4"
+       width="2.0589075"
+       height="6.021378"
+       x="147.72003"
+       y="32.85593" /><rect
+       style="fill:#011671;fill-opacity:1;stroke:#000000;stroke-width:0.103613;stroke-opacity:1"
+       id="rect3-5-2-0-9-4-5"
+       width="2.0589075"
+       height="6.021378"
+       x="147.63162"
+       y="43.342472" /><text
        xml:space="preserve"
        style="font-size:1.43813px;white-space:pre;inline-size:13.679;fill:#0098a0;fill-opacity:1;stroke:#000000;stroke-width:0.119844;stroke-opacity:1"
        x="157.56456"
        y="56.389084"
        id="text4-6-82-2-9-0"
-       transform="matrix(0.95492798,0,0,1.0471994,-6.3742382,-3.2939135)"><tspan
+       transform="matrix(0.95492798,0,0,1.0471994,-116.44759,39.794629)"><tspan
          x="157.56456"
          y="56.389084"
-         id="tspan53"><tspan
+         id="tspan36"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan52">Dense
+           id="tspan35">Dense
 </tspan></tspan><tspan
          x="157.56456"
-         y="58.186744"
-         id="tspan55"><tspan
+         y="58.186745"
+         id="tspan38"><tspan
    style="text-align:center;text-anchor:middle"
-   id="tspan54">N=256</tspan>
+   id="tspan37">N=256</tspan>
 </tspan><tspan
          x="157.56456"
-         y="59.984405"
-         id="tspan57"><tspan
+         y="59.984406"
+         id="tspan40"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan56">Ac=ReLu</tspan></tspan></text><rect
+           id="tspan39">Ac=ReLu</tspan></tspan></text><rect
        style="fill:#011671;fill-opacity:1;stroke:#000000;stroke-width:0.152224;stroke-opacity:1"
        id="rect3-5-2-0-9-2"
        width="2.0102966"
@@ -556,21 +579,21 @@
        transform="matrix(0.95492798,0,0,1.0471994,-114.5769,73.808518)"><tspan
          x="157.56456"
          y="56.389084"
-         id="tspan59"><tspan
+         id="tspan42"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan58">Dense
+           id="tspan41">Dense
 </tspan></tspan><tspan
          x="157.56456"
-         y="58.186744"
-         id="tspan61"><tspan
+         y="58.186745"
+         id="tspan44"><tspan
    style="text-align:center;text-anchor:middle"
-   id="tspan60">N=128</tspan>
+   id="tspan43">N=128</tspan>
 </tspan><tspan
          x="157.56456"
-         y="59.984405"
-         id="tspan63"><tspan
+         y="59.984406"
+         id="tspan46"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan62">Ac=ReLu</tspan></tspan></text><rect
+           id="tspan45">Ac=ReLu</tspan></tspan></text><rect
        style="fill:#011671;fill-opacity:1;stroke:#000000;stroke-width:0.124548;stroke-opacity:1"
        id="rect3-5-2-0-9-2-9"
        width="2.0379729"
@@ -585,21 +608,21 @@
        transform="matrix(0.95492798,0,0,1.0471994,-104.48526,73.808518)"><tspan
          x="157.56456"
          y="56.389084"
-         id="tspan65"><tspan
+         id="tspan48"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan64">Dense
+           id="tspan47">Dense
 </tspan></tspan><tspan
          x="157.56456"
-         y="58.186744"
-         id="tspan67"><tspan
+         y="58.186745"
+         id="tspan50"><tspan
    style="text-align:center;text-anchor:middle"
-   id="tspan66">N=64</tspan>
+   id="tspan49">N=64</tspan>
 </tspan><tspan
          x="157.56456"
-         y="59.984405"
-         id="tspan69"><tspan
+         y="59.984406"
+         id="tspan52"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan68">Ac=ReLu</tspan></tspan></text><rect
+           id="tspan51">Ac=ReLu</tspan></tspan></text><rect
        style="fill:#011671;fill-opacity:1;stroke:#000000;stroke-width:0.105513;stroke-opacity:1"
        id="rect3-5-2-0-9-2-9-6"
        width="2.0570073"
@@ -614,48 +637,48 @@
        transform="matrix(0.95492798,0,0,1.0471994,-95.198818,73.808518)"><tspan
          x="157.56456"
          y="56.389084"
-         id="tspan71"><tspan
+         id="tspan54"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan70">Dense
+           id="tspan53">Dense
 </tspan></tspan><tspan
          x="157.56456"
-         y="58.186744"
-         id="tspan73"><tspan
+         y="58.186745"
+         id="tspan56"><tspan
    style="text-align:center;text-anchor:middle"
-   id="tspan72">N=10</tspan>
+   id="tspan55">N=10</tspan>
 </tspan><tspan
          x="157.56456"
-         y="59.984405"
-         id="tspan75"><tspan
+         y="59.984406"
+         id="tspan58"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan74">Ac=Softmax</tspan></tspan></text><rect
+           id="tspan57">Ac=Softmax</tspan></tspan></text><rect
        style="fill:#018d71;fill-opacity:1;stroke:#000000;stroke-width:0.158328;stroke-opacity:1"
        id="rect3-5-2-0-6-6-1"
        width="2.0042429"
        height="14.443583"
-       x="41.438496"
-       y="79.996399" /><text
+       x="45.483925"
+       y="79.808243" /><text
        xml:space="preserve"
        style="font-size:1.43813px;fill:#0098a0;fill-opacity:1;stroke:#000000;stroke-width:0.119844;stroke-opacity:1"
-       x="44.44379"
-       y="95.04464"
+       x="50.552052"
+       y="94.685287"
        id="text4-6-82-2-9-2-5-9"
        transform="scale(0.95492798,1.0471994)"><tspan
          style="text-align:center;text-anchor:middle;stroke-width:0.119844"
-         x="44.44379"
-         y="95.04464"
+         x="50.552052"
+         y="94.685287"
          id="tspan7-80-9-6-9-0-4">Reshape</tspan><tspan
          style="text-align:center;text-anchor:middle;stroke-width:0.119844"
-         x="44.44379"
-         y="96.8423"
+         x="50.552052"
+         y="96.482948"
          id="tspan11-0-5-2">(16,16,1)</tspan><tspan
          style="text-align:center;text-anchor:middle;stroke-width:0.119844"
-         x="44.44379"
-         y="98.639961"
+         x="50.552052"
+         y="98.280609"
          id="tspan12-7-4-9" /><tspan
          style="text-align:center;text-anchor:middle;stroke-width:0.119844"
-         x="44.44379"
-         y="100.43762"
+         x="50.552052"
+         y="100.07828"
          id="tspan6-1-0-5-03-3-2" /></text><rect
        style="fill:#018d71;fill-opacity:1;stroke:#000000;stroke-width:0.158328;stroke-opacity:1"
        id="rect3-5-2-0-6-6-1-6"
@@ -665,25 +688,25 @@
        y="79.996399" /><text
        xml:space="preserve"
        style="font-size:1.43813px;fill:#0098a0;fill-opacity:1;stroke:#000000;stroke-width:0.119844;stroke-opacity:1"
-       x="114.85284"
-       y="95.04464"
+       x="115.83804"
+       y="94.86496"
        id="text4-6-82-2-9-2-5-9-0"
        transform="scale(0.95492798,1.0471994)"><tspan
          style="text-align:center;text-anchor:middle;stroke-width:0.119844"
-         x="114.85284"
-         y="95.04464"
+         x="115.83804"
+         y="94.86496"
          id="tspan7-80-9-6-9-0-4-9">Reshape</tspan><tspan
          style="text-align:center;text-anchor:middle;stroke-width:0.119844"
-         x="114.85284"
-         y="96.8423"
+         x="115.83804"
+         y="96.662621"
          id="tspan11-0-5-2-9">(28,28,1)</tspan><tspan
          style="text-align:center;text-anchor:middle;stroke-width:0.119844"
-         x="114.85284"
-         y="98.639954"
+         x="115.83804"
+         y="98.460274"
          id="tspan12-7-4-9-9" /><tspan
          style="text-align:center;text-anchor:middle;stroke-width:0.119844"
-         x="114.85284"
-         y="100.43761"
+         x="115.83804"
+         y="100.25793"
          id="tspan6-1-0-5-03-3-2-1" /></text><text
        xml:space="preserve"
        style="font-size:1.43813px;fill:#0098a0;fill-opacity:1;stroke:#000000;stroke-width:0.119844;stroke-opacity:1"
@@ -987,44 +1010,51 @@
        x="43.460503"
        y="56.934605"
        id="text4-6-1-6"
-       transform="matrix(0.95492799,0,0,1.0471994,16.51319,39.882331)"><tspan
+       transform="matrix(0.95492799,0,0,1.0471994,20.652701,39.600091)"><tspan
          x="43.460503"
          y="56.934605"
-         id="tspan77"><tspan
+         id="tspan60"><tspan
    style="text-align:center;text-anchor:middle"
-   id="tspan76">Conv2DTranspose </tspan>
+   id="tspan59">Conv2DTranspose </tspan>
 </tspan><tspan
          x="43.460503"
-         y="58.732265"
-         id="tspan79"><tspan
+         y="58.732266"
+         id="tspan62"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan78">k=5
+           id="tspan61">k=5
 </tspan></tspan><tspan
          x="43.460503"
-         y="60.529926"
-         id="tspan81"><tspan
+         y="60.529927"
+         id="tspan64"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan80">F=16</tspan></tspan></text><text
+           id="tspan63">F=16</tspan></tspan></text><text
        xml:space="preserve"
        style="font-size:1.43813px;white-space:pre;inline-size:34.99;display:inline;fill:#0098a0;fill-opacity:1;stroke:#000000;stroke-width:0.119844;stroke-opacity:1"
        x="43.460503"
        y="56.934605"
        id="text4-6-1-8"
-       transform="matrix(0.95492799,0,0,1.0471994,36.493218,39.882331)"><tspan
+       transform="matrix(0.95492799,0,0,1.0471994,39.78601,39.411932)"><tspan
          x="43.460503"
          y="56.934605"
-         id="tspan83"><tspan
+         id="tspan66"><tspan
    style="text-align:center;text-anchor:middle"
-   id="tspan82">Conv2DTranspose </tspan>
+   id="tspan65">Conv2DTranspose </tspan>
 </tspan><tspan
          x="43.460503"
-         y="58.732265"
-         id="tspan85"><tspan
+         y="58.732266"
+         id="tspan68"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan84">k=5
+           id="tspan67">k=5
 </tspan></tspan><tspan
          x="43.460503"
-         y="60.529926"
-         id="tspan87"><tspan
+         y="60.529927"
+         id="tspan70"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan86">F=1</tspan></tspan></text></g></svg>
+           id="tspan69">F=1</tspan></tspan></text><image
+       width="6.5255327"
+       height="2.2927127"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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&#10;TkSuQmCC&#10;"
+       id="image1-2"
+       x="146.80115"
+       y="54.745975" /></g></svg>
